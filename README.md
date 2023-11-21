@@ -12,7 +12,7 @@ This is an application that allows you to post messages. The messages created di
 
 ## Demo
 
-[Live link](https://bag-lovat.vercel.app/)
+[Not Available](https://...)
 
 ## Features
 
