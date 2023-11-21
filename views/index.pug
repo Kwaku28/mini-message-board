@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  ul
+    each message in messages
+      li.message
+        p.message__author #{message.user}
+        p.message__content #{message.text}
+        p.message__date #{message.added}
+  a(href="http://localhost:3000/new") Add new message
